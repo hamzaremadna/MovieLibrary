@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515159191143",
+    "firebase_url": "https://movielib-1585303485941.firebaseio.com",
+    "project_id": "movielib-1585303485941",
+    "storage_bucket": "movielib-1585303485941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515159191143:android:7f77a44f8115858ef32ec2",
+        "android_client_info": {
+          "package_name": "com.example.movielib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515159191143-vit6ch0ehrh42tvi3d3p8d0jg8eu7loo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movielib",
+            "certificate_hash": "16b9b43143efea1fa3718d8c07034c8675e7e38d"
+          }
+        },
+        {
+          "client_id": "515159191143-km1r0949lc211clcc9amg0lop8l9r33t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8ENxCoVa8OgncXvOvYxUvGrVY2_tr84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515159191143-km1r0949lc211clcc9amg0lop8l9r33t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
